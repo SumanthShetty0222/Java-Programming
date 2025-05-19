@@ -27,12 +27,16 @@
 - **StringPerformanceTest -o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringPerformanceTest_output.png)
 
 # Program 3a - String Handling
-- **StringHandling** -( 
+- **StringHandling** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringHandling.java)
+- **StringHandling -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringHandling_output.png)
+# Program 3b - String Exercise
 - **IsNullOrEmpty - o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/IsNullOrEmpty_output.png)
 - **CountOccurrences -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/CountOccurrences_output.png)
 - **ReverseString -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/ReverseString_output.png)
 - **IsPalindrome -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/IsPalindrome_output.png)
 - **RemoveWhitespace -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/RemoveWhitespace_output.png)
+
+  # Program 3c - String Exercise
 - **CapitalizeWords -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/CapitalizeWords_output.png)
 - **Truncate -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/Truncate_output.png)
 - **IsNumeric -o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/IsNumeric_output.png)

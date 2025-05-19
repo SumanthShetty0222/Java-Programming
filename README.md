@@ -22,6 +22,6 @@
 - **StringOperationsDemo** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringOperationsDemo.java)
 - **StringOperationsDemo - o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringOperationsDemo_output.png)
 
-  # Program 2b - String Builder and String Buffer
-  - **StringPerformanceTest** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringOperationsDemo.java)
-  - **StringPerformanceTest -o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringPerformanceTest_output.png)
+# Program 2b - String Builder and String Buffer
+- **StringPerformanceTest** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringOperationsDemo.java)
+- **StringPerformanceTest -o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringPerformanceTest_output.png)

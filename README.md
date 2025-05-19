@@ -5,18 +5,18 @@
 - **Output** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ListInterfaceDemo_output.png)
 
 # Program 1b - ArrayList
-- **ArrayListSearch** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSearch%20_output.png)
-- **ArrayListRemove**- (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListRemove_output.png)
-- **ArrayListSort** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSort_output.png)
-- **ArrayListSubList** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSubList_output.png)
-- **ArrayListDeleteNth** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListDeleteNth_output.png)
+- **ArrayListSearch -o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSearch%20_output.png)
+- **ArrayListRemove - o/p**- (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListRemove_output.png)
+- **ArrayListSort - o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSort_output.png)
+- **ArrayListSubList - o/p** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSubList_output.png)
+- **ArrayListDeleteNth - o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListDeleteNth_output.png)
 
 # Program 1c - LinkedList
-- **LinkedListIterateFromSecond**-(https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListIterateFromSecond_output.png)
-- **LinkedListReverseIterate**-(https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListReverseIterate_output.png)
-- **LinkedListInsertEnd** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListInsertEnd_output.png)
-- **LinkedListDisplayWithIndex** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListDisplayWithIndex_output.png)
-- **LinkedListSwapElements** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListSwapElements_output.png)
+- **LinkedListIterateFromSecond -o/p**-(https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListIterateFromSecond_output.png)
+- **LinkedListReverseIterate -o/p**-(https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListReverseIterate_output.png)
+- **LinkedListInsertEnd -o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListInsertEnd_output.png)
+- **LinkedListDisplayWithIndex -o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListDisplayWithIndex_output.png)
+- **LinkedListSwapElements -o/p** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListSwapElements_output.png)
 
 # Program 2a - String Operations
 - **StringOperationsDemo** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/StringOperationsDemo.java)

@@ -7,5 +7,13 @@
 # Program 1b - ArrayList
 - **ArrayListSearch** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSearch%20_output.png)
 - **ArrayListRemove**- (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListRemove_output.png)
-- **ArrayListSort** -(
+- **ArrayListSort** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSort_output.png)
+- **ArrayListSubList** -(https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListSubList_output.png)
+- **ArrayListDeleteNth** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/ArrayListDeleteNth_output.png)
 
+# Program 1c - LinkedList
+- **LinkedListIterateFromSecond**-(  )
+- **LinkedListReverseIterate**-(  )
+- **LinkedListInsertEnd** - ( )
+- **LinkedListDisplayWithIndex** - ( )
+- **LinkedListSwapElements** - ( )

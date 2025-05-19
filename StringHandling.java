@@ -113,7 +113,7 @@ public class ReverseString {
     }
 
     public static void main(String[] args) {
-        System.out.println(reverseString("OpenAI"));
+        System.out.println("Reversed String : "+reverseString("OpenAI"));
     }
 }
 
@@ -180,7 +180,7 @@ public class IsNumeric {
     }
 
     public static void main(String[] args) {
-        System.out.println(isNumeric("12345"));
+        System.out.println("Is Numeric : "+isNumeric("12345"));
     }
 }
 
@@ -205,3 +205,13 @@ public class GenerateRandomString {
 
 
 //Q10. Write a Java Program for Counting the number of words in a string using user defined function countWords()
+public class Q10_CountWords {
+    public static int countWords(String str) {
+        if (str == null || str.trim().isEmpty()) return 0;
+        return str.trim().split("\\s+").length;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Words Count is : "+countWords("This is AIET Campus"));
+    }
+}

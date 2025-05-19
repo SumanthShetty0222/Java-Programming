@@ -17,3 +17,6 @@
 - **LinkedListInsertEnd** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListInsertEnd_output.png)
 - **LinkedListDisplayWithIndex** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListDisplayWithIndex_output.png)
 - **LinkedListSwapElements** - (https://github.com/SumanthShetty0222/Java-Programming/blob/main/LinkedListSwapElements_output.png)
+
+# Program 2a - String Operations
+- **StringOperationsDemo** - (

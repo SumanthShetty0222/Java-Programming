@@ -34,3 +34,8 @@
 4. Linkedlist_display o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/1c.Linkedlist/LinkedList_display.png
 
 5. Linkedlist_swap o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/1c.Linkedlist/Linkedlist_swap.png
+
+## String
+2a. String_operations o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/2a.String%20Operations/String_operations.png  
+
+2b. PerformanceTest o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/2b.%20String%20Performance/PerformanceTest.png

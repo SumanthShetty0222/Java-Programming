@@ -80,3 +80,14 @@
 
 5d. Tapped_Pan2_Swing o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/5d.Swing%20Program7/Tapped_Pan2_Swing.png
 
+##  Servlet_Programs
+   6a. FactorialServlet o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/6a.Servlet_Factorial/FactorialServlet.png
+
+   6b. CookieServlet o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/6b.Servlet%20Cookie/Cookie_Servlet.png
+
+   6c. primeServlet o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/6c.Servlet%20Prime%20Check/Prime_Servlet.png
+
+##  JSP_programs 
+  7a. Session_Management o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/7a.Session%20%20Management_JSP/Session_Managemne_JSP.png
+
+  7b. SetCookie o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/7b.Cookie%20Management_JSP/Cookie_Management_JSP.png

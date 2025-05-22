@@ -106,9 +106,8 @@
 
   9b. mysql_startwith_D o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9b.Mysql_Filter/mysql_startwith_D.png
   
-  9c. SalaryReportR o/p link -   
-    Report o/p link - 
+  9c. SalaryReportR o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9c.JDBC_mysql_append/salaryReportR.png  
 
-9d. deleteEmployee o/p link - 
+9d. deleteEmployee o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9d.JDBC_mysql_delete/deleteEmployee.png  
     SalaryReportS o/p link - 
 

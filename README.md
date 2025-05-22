@@ -91,3 +91,24 @@
   7a. Session_Management o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/7a.Session%20%20Management_JSP/Session_Managemne_JSP.png
 
   7b. SetCookie o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/7b.Cookie%20Management_JSP/Cookie_Management_JSP.png
+
+  ## Mysql_JDBC
+8a. mysql_select o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/8a.Mysql_insert/mysql_select.png
+
+  8b. mysql_update o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/8b.Mysql_update/mysql_update.png
+
+  8c. InsertEmployee o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/8c.JDBC_insert/index_Insert_Employee.png  
+    Report o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/8c.JDBC_insert/Report.png
+    
+8d. updateForm,updateEmployee o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/8d.JDBC_update/updateForm.png
+
+9a. mysql_Delete o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9a.Mysql_Delete/mysql_Delete.png
+
+  9b. mysql_startwith_D o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9b.Mysql_Filter/mysql_startwith_D.png
+  
+  9c. SalaryReportR o/p link -   
+    Report o/p link - 
+
+9d. deleteEmployee o/p link - 
+    SalaryReportS o/p link - 
+

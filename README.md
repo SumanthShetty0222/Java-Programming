@@ -109,5 +109,5 @@
   9c. SalaryReportR o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9c.JDBC_mysql_append/salaryReportR.png  
 
 9d. deleteEmployee o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9d.JDBC_mysql_delete/deleteEmployee.png  
-    SalaryReportS o/p link - 
+    SalaryReportS o/p link - https://github.com/SumanthShetty0222/Java-Programming/blob/main/9d.JDBC_mysql_delete/salaryReportS.png
 
